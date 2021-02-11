@@ -1,4 +1,5 @@
 # --- Hack.Diversity React/Redux Template ---
+New change
 
 ## Getting Started
 Some _really_ great instructions and stuff...eventually.
